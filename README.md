@@ -1,1 +1,1 @@
-# Student-Manage
+##基于MySQL的天命女武神信息管理系统
